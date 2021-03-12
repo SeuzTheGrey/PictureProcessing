@@ -1,6 +1,0 @@
-D:\Projects\PictureProcessing\PictureProcessing\PictureProcessing.BusinessLogic\bin\Debug\PictureProcessing.BusinessLogic.dll
-D:\Projects\PictureProcessing\PictureProcessing\PictureProcessing.BusinessLogic\bin\Debug\PictureProcessing.BusinessLogic.pdb
-D:\Projects\PictureProcessing\PictureProcessing\PictureProcessing.BusinessLogic\obj\Debug\PictureProcessing.BusinessLogic.csprojAssemblyReference.cache
-D:\Projects\PictureProcessing\PictureProcessing\PictureProcessing.BusinessLogic\obj\Debug\PictureProcessing.BusinessLogic.csproj.CoreCompileInputs.cache
-D:\Projects\PictureProcessing\PictureProcessing\PictureProcessing.BusinessLogic\obj\Debug\PictureProcessing.BusinessLogic.dll
-D:\Projects\PictureProcessing\PictureProcessing\PictureProcessing.BusinessLogic\obj\Debug\PictureProcessing.BusinessLogic.pdb
