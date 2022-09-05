@@ -85,7 +85,8 @@ namespace PictureProcessing.BusinessLogic
                 if (xyz[i] > 0.008856)
                 {
                     //When using Math.POW, Math.Pow(xyz[i], (1/3)) calculates a different value compared to Math.Pow(xyz[i], 0.33333333333). 
-                    xyz[i] = Math.Pow(xyz[i], 0.33333333333);
+                    //Specifiy the values data type through d or f on the values
+                    xyz[i] = Math.Pow(xyz[i], (1d / 3d));
                 }
                 else
                 {

@@ -41,7 +41,7 @@ namespace PictureProcessing.UI.Controllers
             () =>
             {
                 //Process image tiles and calculate average rgb
-                tiles = new ImageTiles("D:\\Projects\\PictureProcessing\\PictureProcessing\\101_ObjectCategories\\101_ObjectCategories\\Motorbikes");
+                tiles = new ImageTiles(@"D:\Projects\PictureProcessing\PictureProcessing\101_ObjectCategories\101_ObjectCategories\bass");
             });
 
             await Task.Run(() =>
